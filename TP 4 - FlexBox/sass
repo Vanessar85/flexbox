@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+
+    <!-- <i class="fa-solid fa-tree"></i>
+        <i class="fa-brands fa-canadian-maple-leaf"></i>  -->
+
+    <body>
+
+        <ul>
+
+            <li class="drapeaufrancais"></li>
+            <li class="drapeauallemand"></li>
+            <li class="drapeaucanadien"></li>
+            <li class="drapeautrucmuche"></li>
+     
+       <div class=""></div>
+       <div class=""></div>
+       <div class=""></div>
+       <div class=""></div>
+
+        </ul>
+
+    </body> 
+</html>

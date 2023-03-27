@@ -1,0 +1,147 @@
+head{
+    margin: 0;
+}
+
+body{
+    header{
+        
+            display: flex;
+            height: 200px;
+            width: 90%;
+            margin-left: 5%;
+            justify-content: space-between;
+            background-color: white;
+
+            
+
+            #flag1{
+                justify-content: space-around;
+                display: flex;
+                height: 200px;
+                width: 20%;
+                align-items: stretch;
+                
+                            
+                .sticks1 {
+                    height: 200px;
+                    width: 33.33%;
+                    display: flex;
+                    background-color: blue;
+                }
+                
+
+                .sticks12{
+                    height: 200px;
+                    width: 33.33%;
+                    display: flex;
+                    background-color: white;
+                }
+                .sticks123{
+                    height: 200px;
+                    width: 33.33%;
+                    display: flex;
+                    background-color: red;
+
+                }
+                
+                }
+            }
+
+            #flag2{
+                justify-content: space-around;
+                display: flex;
+                height: 200px;
+                width: 20%;
+                align-items: stretch;
+                flex-direction: column;
+
+                .sticks2{
+                    height: 33.33%;
+                    display: flex;
+                    background-color: black;
+                }
+                .sticks21{
+                    height: 33.33%;
+                    display: flex;
+                    background-color: red;
+                }
+                .sticks212{
+                    height: 33.33%;
+                    display: flex;
+                    background-color: yellow;
+                }
+               
+            }
+
+            #flag3{
+                justify-content: space-around;
+                display: flex;
+                height: 200px;
+                width: 20%;
+                align-items: stretch;
+                flex-direction: row;
+                
+
+                .sticks3{
+                    height: 200px;
+                    width: 25%;
+                    display: flex;
+                    background-color: red;
+                }
+                .sticks31{
+                    height: 200px;
+                    width: 50%;
+                    display: flex;
+                    background-color: white;
+                    i{
+                        display: flex;
+                        color: red;
+                        margin: auto;
+                        font-size: 500%;
+                        
+                        
+                    }
+
+                }
+                .sticks313{
+                    height: 200px;
+                    width: 25%;
+                    display: flex;
+                    background-color: red;
+                }
+            }
+
+            #flag4{
+                justify-content: space-around;
+                display: flex;
+                height: 200px;
+                width: 20%;
+                align-items: stretch;
+                flex-direction: column;
+
+
+                .sticks4{
+                    height: 15%;
+                    display: flex;
+                    background-color: red;
+                }
+                .sticks41{
+                    height: 75%;
+                    display: flex;
+                    background-color: white;
+                    i{
+                        color: green;
+                        margin: auto;
+                        font-size: 500%;
+                    }
+                }
+                .sticks414{
+                    height: 15%;
+                    display: flex;
+                    background-color: red;
+                }
+
+            }
+        }
+
+    
